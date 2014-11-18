@@ -36,4 +36,4 @@ build/
 .rvmrc
 
 # RubyMine
-.idea*
+.idea
